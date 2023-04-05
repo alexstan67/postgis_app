@@ -1,0 +1,2 @@
+class GeoWeather < ApplicationRecord
+end
